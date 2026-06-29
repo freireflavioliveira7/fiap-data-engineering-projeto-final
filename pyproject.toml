@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "fiap-data-engineering-pyspark"
+version = "1.0.0"
+description = "Pipeline PySpark para relatorio de pedidos recusados legitimos"
+requires-python = ">=3.12"
+dependencies = [
+    "pyspark==4.1.2",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

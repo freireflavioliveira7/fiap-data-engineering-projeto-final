@@ -1,0 +1,23 @@
+﻿# Ambiente virtual
+venv/
+
+# Dados (datasets grandes, não vão pro GitHub)
+data/
+
+# Output gerado pelo pipeline
+output/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache do pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Spark logs
+derby.log
+metastore_db/
