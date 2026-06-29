@@ -2,7 +2,7 @@
 
 **Disciplina:** Data Engineering Programming  
 **MBA:** Engenharia de Dados — FIAP  
-**Professor:** Marcelo Barbosa Pinto
+**Professor:** Marcelo Barbosa Pinto  
 **Alunos:** Flávio Freire, Matheus Barbosa, Sergio
 
 ## Descrição
